@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gutigutinico/curso-intro-react/static/css/main.ee74b4cc.chunk.css",
+    "main.js": "/gutigutinico/curso-intro-react/static/js/main.c9112f2f.chunk.js",
+    "main.js.map": "/gutigutinico/curso-intro-react/static/js/main.c9112f2f.chunk.js.map",
+    "runtime-main.js": "/gutigutinico/curso-intro-react/static/js/runtime-main.1999cad4.js",
+    "runtime-main.js.map": "/gutigutinico/curso-intro-react/static/js/runtime-main.1999cad4.js.map",
+    "static/js/2.970d1c2f.chunk.js": "/gutigutinico/curso-intro-react/static/js/2.970d1c2f.chunk.js",
+    "static/js/2.970d1c2f.chunk.js.map": "/gutigutinico/curso-intro-react/static/js/2.970d1c2f.chunk.js.map",
+    "index.html": "/gutigutinico/curso-intro-react/index.html",
+    "static/css/main.ee74b4cc.chunk.css.map": "/gutigutinico/curso-intro-react/static/css/main.ee74b4cc.chunk.css.map",
+    "static/js/2.970d1c2f.chunk.js.LICENSE.txt": "/gutigutinico/curso-intro-react/static/js/2.970d1c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1999cad4.js",
+    "static/js/2.970d1c2f.chunk.js",
+    "static/css/main.ee74b4cc.chunk.css",
+    "static/js/main.c9112f2f.chunk.js"
+  ]
+}
